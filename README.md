@@ -1,6 +1,7 @@
 # dice_game
 
-A new Flutter project.
+A flutter App used for randomly rolling dice ,just incase you wanna place a fast dice bet
+
 
 ## Getting Started
 
